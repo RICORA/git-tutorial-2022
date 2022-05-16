@@ -1,1 +1,1 @@
-print(
+print('git lecture')
