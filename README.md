@@ -6,7 +6,7 @@
 
       部員に聞いてね
 
-### lec1 ディレクトリのhello.pyを編集して、プルリクエストを出そう
+### 1. lec1 ディレクトリのhello.pyを編集して、プルリクエストを出そう
 
       a. `https://github.com/RICORA/git-tutorial-2022`を`clone`しよう
 
@@ -32,12 +32,12 @@
 
 ### 3. サークルのサイトを`clone`して、メンバー欄に自分を追加する
 
-   a. `https://github.com/RICORA/alg-HP`を`clone`しよう
+      a. `https://github.com/RICORA/alg-HP`を`clone`しよう
 
-   b. `docs/page-member-(your name)`というブランチに`switch`しよう
+      b. `docs/page-member-(your name)`というブランチに`switch`しよう
 
-   c. content/page/member/index.md に自分のプロフィールを記載しよう
+      c. content/page/member/index.md に自分のプロフィールを記載しよう
 
-   d. `add`して`commit`しよう
+      d. `add`して`commit`しよう
 
-   e. `https://github.com/RICORA/alg-HP`にプルリクエストを出そう
+      e. `https://github.com/RICORA/alg-HP`にプルリクエストを出そう
