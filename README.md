@@ -42,7 +42,7 @@
 
 ### C. サークルのサイトを`clone`して、メンバー欄に自分を追加する
 
-   1. `https://github.com/RICORA/alg-HP`を`clone`しよう
+1. `https://github.com/RICORA/alg-HP`を`clone`しよう
 
    2. `docs/page-member-(your name)`というブランチに`switch`しよう
 
@@ -51,3 +51,4 @@
    4. `add`して`commit`しよう
 
    5. `https://github.com/RICORA/alg-HP`にプルリクエストを出そう
+
